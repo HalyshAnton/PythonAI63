@@ -1,4 +1,4 @@
 text = input("Введіть текст: ")
 
-result = text.replace(" ", "-")
+text.replace(" ", "-")
 print(f"Змінений текст: {text}")
